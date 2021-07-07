@@ -1,0 +1,17 @@
+Overview of test files for HLOJ Project
+- data1.txt - valid file
+- data2.txt - valid file
+- data3.txt - valid file
+- data4.txt - missing starting number
+- data5.txt - missing customers
+- data6.txt - missing menu items
+- data7.txt - customer with missing info
+- data8.txt - menu item with missing info
+- data9.txt - order with missing info (other than menu items)
+- data10.txt - customers after orders
+- data11.txt - menu items after orders
+- data12.txt - duplicate menu item ids
+- data13.txt - invalid menu item price
+- data14.txt - orders with numbers larger than first number
+- data15.txt - orders with no menu items
+- data16.txt - orders with duplicate order number

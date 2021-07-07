@@ -1,0 +1,12 @@
+1503
+# Scott,Birkner,sdbirkne
+# Ignacio X.,Dominguez,ignacioxd
+# Sarah,Heckman,sesmith5
+# James,Tetterton,jctetter
+* MI0,Coffee,Large Coffee,2.5
+* MI1,Pastries,Donut,2.0
+* MI2,Pastries,Sconce,2.5
+* MI3,Tea,Chai Latte,3.0
+* MI4,Tea,Green Tea,2.75
+- 1500,jctetter,MI1,MI3,MI3
+- 1503,sdbirkne,MI0,MI2,MI2,MI1
